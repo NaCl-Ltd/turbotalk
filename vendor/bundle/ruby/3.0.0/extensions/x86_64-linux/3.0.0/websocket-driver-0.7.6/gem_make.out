@@ -1,0 +1,15 @@
+current directory: /home/matz/work/turbo/turbo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240319-2822901-3v2b9o.rb extconf.rb
+creating Makefile
+
+current directory: /home/matz/work/turbo/turbo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /home/matz/work/turbo/turbo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/matz/work/turbo/turbo/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20240319-2822901-ldrc6z
